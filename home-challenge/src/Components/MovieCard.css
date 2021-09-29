@@ -1,0 +1,65 @@
+.movies {
+  display: flex;
+  margin-top: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+img {
+  padding-top: 40px;
+
+  margin-left: 40px;
+}
+.runtime {
+    
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 5px;
+  background-color: #a9a9a9;
+  font-size: 15px;
+  border-radius: 40px;
+}
+.rated {
+  display: inline-block;
+  background-color: #a9a9a9;
+  padding-left: 10px;
+  padding-right: 5px;
+  margin-right: 10px;
+  font-size: 15px;
+  border-radius: 40px;
+}
+.genre {
+  background-color: #a9a9a9;
+  font-size: 15px;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 60px;
+  padding-left: 10px;
+  padding-right: 5px;
+  border-radius: 40px;
+
+}
+.plot {
+  font-size: 14px;
+  font-weight: 500;
+  /* margin-left: 20px; */
+  /* margin-right: 20px; */
+  /* padding-left: 10px; */
+}
+.actors {
+  font-size: 15px;
+  font-weight: 500;
+}
+.description {
+  margin-left: 20px;
+
+}
+
+.rating{
+    /* display: inline-block; */
+    color: rgb(31, 129, 226);
+    font-size: 25px;
+}
+.both{
+    display: flex;
+}
+
